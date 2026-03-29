@@ -45,7 +45,7 @@ CorePrep includes a suite of proprietary interactive financial simulators coveri
 **Are simulator inputs saved?**
 Yes. All inputs persist automatically between sessions.
 
-> Simulators are for educational purposes only and should not be used for actual financial decision-making.
+> All financial simulators and calculators in this app are provided for educational and illustration purposes only. Results are based on simplified assumptions and should not be used as the sole basis for any financial, investment, or business decision. Always consult a qualified professional before making financial decisions.
 
 ---
 
@@ -98,7 +98,7 @@ The app includes an exam reference section with official CMA® topic weights for
 ## Disclaimers
 
 **Simulator Disclaimer**
-The app preview shown on the Rork platform runs in a cloud-hosted iOS Simulator environment. Certain features (such as in-app purchases and camera access) may behave differently or be unavailable in the simulator. For the full experience, install the app on a physical iOS device via the App Store.
+All financial simulators and calculators in this app are provided for educational and illustration purposes only. Results are based on simplified assumptions and should not be used as the sole basis for any financial, investment, or business decision. Always consult a qualified professional before making financial decisions.
 
 **Trademark Notice**
 CMA® (Certified Management Accountant) is a registered trademark of the Institute of Management Accountants (IMA®). CorePrep for CMA is an independent study tool and is not affiliated with, endorsed by, or sponsored by the IMA® or any other certification body. All references to the CMA® exam, its content areas, and topic weights are used solely for educational identification purposes.
