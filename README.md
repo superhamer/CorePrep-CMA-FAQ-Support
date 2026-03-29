@@ -7,7 +7,7 @@
 ## General
 
 **What is CorePrep for CMA?**
-CorePrep for CMA helps candidates prepare for the CMA® exam with curated study content, practice questions, interactive simulators, and a built-in study planner — all within a single native iOS experience.
+CorePrep for CMA helps candidates prepare for the CMA® exam with curated study content, practice questions, interactive simulators, and a built-in study planner — all within a single native iOS experience. It also doubles as a practical, always‑on reference for working professionals.
 
 **Who developed this app?**
 CorePrep for CMA was developed by Maher I. Ladsak, CMA, CPA(PH). All rights reserved.
